@@ -1,0 +1,7 @@
+{
+  "url": "https://demoqa.com/",
+  "wait_time": 10,
+  "chrome_browser" : "chrome",
+  "firefox_browser" : "firefox"
+
+}

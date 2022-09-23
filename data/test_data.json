@@ -1,0 +1,27 @@
+{
+  "first_set": {
+    "firstName": "Jon",
+    "lastName": "Snow",
+    "userEmail": "knownothing@gmail.com",
+    "age": 30,
+    "salary": 3000,
+    "department": "alpha"
+
+  },
+  "second_set": {
+    "firstName": "Buttercup",
+    "lastName": "Cumbersnatch",
+    "userEmail": "BudapestCandygram@mail.io",
+    "age": 41,
+    "salary": 2000,
+    "department": "beta"
+  },
+  "first_alert_text" : "You clicked a button",
+  "second_alert_text" : "Do you confirm action?",
+  "text_after_ok" : "You selected Ok",
+  "name_prompt_text": "Please enter your name",
+  "parent_frame": "Parent frame",
+  "child_frame": "Child Iframe",
+  "new_tab_text": "This is a sample page"
+}
+
